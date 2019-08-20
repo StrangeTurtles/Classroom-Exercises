@@ -1,0 +1,7 @@
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\bin\Debug\TwoDArrayTest.exe.config
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\bin\Debug\TwoDArrayTest.exe
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\bin\Debug\TwoDArrayTest.pdb
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\obj\Debug\TwoDArrayTest.csprojAssemblyReference.cache
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\obj\Debug\TwoDArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\obj\Debug\TwoDArrayTest.exe
+C:\Users\s199030\source\repos\TwoDArrayTest\TwoDArrayTest\obj\Debug\TwoDArrayTest.pdb

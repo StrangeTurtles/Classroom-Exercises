@@ -1,0 +1,7 @@
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\bin\Debug\DragonDiet.exe.config
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\bin\Debug\DragonDiet.exe
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\bin\Debug\DragonDiet.pdb
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\obj\Debug\DragonDiet.csprojAssemblyReference.cache
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\obj\Debug\DragonDiet.csproj.CoreCompileInputs.cache
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\obj\Debug\DragonDiet.exe
+C:\Users\s199030\source\Classroom-Execises\DragonDiet\DragonDiet\obj\Debug\DragonDiet.pdb

@@ -1,0 +1,7 @@
+C:\Users\s199030\source\repos\Fight\Fight\bin\Debug\Fight.exe.config
+C:\Users\s199030\source\repos\Fight\Fight\bin\Debug\Fight.exe
+C:\Users\s199030\source\repos\Fight\Fight\bin\Debug\Fight.pdb
+C:\Users\s199030\source\repos\Fight\Fight\obj\Debug\Fight.csprojAssemblyReference.cache
+C:\Users\s199030\source\repos\Fight\Fight\obj\Debug\Fight.csproj.CoreCompileInputs.cache
+C:\Users\s199030\source\repos\Fight\Fight\obj\Debug\Fight.exe
+C:\Users\s199030\source\repos\Fight\Fight\obj\Debug\Fight.pdb

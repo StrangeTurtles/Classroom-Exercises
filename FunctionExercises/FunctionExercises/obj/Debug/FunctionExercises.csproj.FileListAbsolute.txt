@@ -1,0 +1,7 @@
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\bin\Debug\FunctionExercises.exe.config
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\bin\Debug\FunctionExercises.exe
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\bin\Debug\FunctionExercises.pdb
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\obj\Debug\FunctionExercises.csprojAssemblyReference.cache
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\obj\Debug\FunctionExercises.csproj.CoreCompileInputs.cache
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\obj\Debug\FunctionExercises.exe
+C:\Users\s199030\source\Classroom-Execises\FunctionExercises\FunctionExercises\obj\Debug\FunctionExercises.pdb
